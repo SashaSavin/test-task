@@ -8,18 +8,27 @@ export default {
       lg: '976px',
       xl: '1440px'
     },
-    colors: {},
-    fontFamily: {
-      sans: ['Graphik', 'sans-serif'],
-      serif: ['Merriweather', 'serif']
-    },
     extend: {
+      backgroundImage: {
+        bl: "url('./src/assets/imgs/bg.png')",
+        blmob: "url('./src/assets/imgs/mob-bgr.png')"
+      },
       spacing: {
         128: '32rem',
         144: '36rem'
       },
       borderRadius: {
         '4xl': '2rem'
+      },
+      colors: {
+        'light-text': '#e4e5ea',
+        black: '#0e1014',
+        'dark-gray': '#656566',
+        royalblue: '#4077f3'
+      },
+      fontFamily: {
+        font: 'Inter',
+        montserrat: 'Montserrat'
       }
     }
   },
