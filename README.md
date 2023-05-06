@@ -1,7 +1,7 @@
 # 💫💫💫 thx for watching 💫💫💫
 
 
-## Firts task:
+## First task:
 https://codepen.io/SashaSavin/pen/mdzXyBB
 
 ## Second task:
