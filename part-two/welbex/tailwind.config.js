@@ -10,8 +10,8 @@ export default {
     },
     extend: {
       backgroundImage: {
-        bl: "url('./src/assets/imgs/bg.png')",
-        blmob: "url('./src/assets/imgs/mob-bgr.png')"
+        bl: "url('/src/assets/imgs/bg.png')",
+        blmob: "url('/src/assets/imgs/mob-bgr.png')"
       },
       spacing: {
         128: '32rem',
